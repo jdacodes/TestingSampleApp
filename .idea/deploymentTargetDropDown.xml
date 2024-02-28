@@ -5,6 +5,9 @@
       <entry key="app">
         <State />
       </entry>
+      <entry key="test_authentication_login_success()">
+        <State />
+      </entry>
     </value>
   </component>
 </project>
